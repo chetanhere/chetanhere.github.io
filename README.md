@@ -1,1 +1,3 @@
-# chetanhere.github.io
+# Chetan Vashistth
+### Entrepreneur
+### ML, AI, and Robotics
